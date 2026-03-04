@@ -1,3 +1,4 @@
+https://coffee-quality-classifier-h7ctwj4ucdpdkvriwnb3fv.streamlit.app/
 # ☕ Specialty Coffee Quality Predictor
 
 ## 📌 Project Overview
@@ -28,4 +29,5 @@ The dataset contains Arabica and Robusta evaluations. Key findings from the EDA 
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/yourusername/coffee-quality-classifier.git](https://github.com/yourusername/coffee-quality-classifier.git)
+
 cd coffee-quality-classifier
